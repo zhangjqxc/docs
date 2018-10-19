@@ -12,6 +12,7 @@ A lot of research is conducted on LoRa and LoRaWAN. This page is created to bett
 
 Title | Author | Journal/Proceedings | Year |
 | -------------------- | ---------- | ---------- | ------ |
+[Channel-Envelope Differencing Eliminates Secret Key Correlation: LoRa-Based Key Generation in Low Power Wide Area Networks](https://128.84.21.199/abs/1810.08031)| Zhang, J., Marshall, A., Hanzo, L., | IEEE Transactions on Vehicular Technology, accepted | 2018 | 
 [Integration of LoRaWAN and 4G/5G for the Industrial Internet of Things](https://ieeexplore.ieee.org/document/8291115/) | Navarro-Ortiz, J., Sendra, S., Ameigeiras, P., Lopez-Soler, J.M. | IEEE Communications Magazine, Vol. 56(2), pp. 60-67 | 2018 | 
 [Resource Efficiency in Low-Power Wide-Area Networks for IoT Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8254800) | Z. Qin and J. McCann. | IEEE Global Communications Conference (GLOBECOM), pp. 1-7.| 2017 |
 [Modelling and analysis of low-power wide-area networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7996589) | Z. Qin, y. Liu, G. Y. Li, and J. McCann. | IEEE International Conference on Communications (ICC), pp. 1-7.| 2017 |
